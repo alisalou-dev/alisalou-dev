@@ -28,4 +28,7 @@ These are tools used in my projects; I'm continuing to develop my skills.
 - Explore practical AI features
 - Practice Git, testing, and clear technical writing
 
-You can reach me here on [GitHub](https://github.com/alisalou-dev).
+## Find me online
+
+- [GitHub](https://github.com/alisalou-dev)
+- [LinkedIn](https://www.linkedin.com/in/ali-salou-928809452/)
